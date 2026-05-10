@@ -7,6 +7,8 @@
 
 ## Read my work
 
+Almeida, A. C., Cox-Casals, R., & Wagner, M. (2026, May 7). _Adjectival agreement is interpreted: Evidence from summative agreement in Mexican Spanish and Brazilian Portuguese_ [Poster presentation]. WCCFL 44, Universidad autónoma nacional de México, Mexico City, Mexico. [Read here](papers/WCCFL44_CumAgr.pdf)
+
 Cox-Casals, R. (2025, June 4). _Consonant features of Chilean Spanish: A case of lenition and underspecification_ [Poster presentation]. 72nd Annual Conference of the Canadian Linguistic Association, McGill University, Montreal, QC. [Read here](papers/HT poster.pdf)
 
 Cox-Casals, R. (2025). _Pseudo-geminates: An autosegmental approach to consonant "lengthening" in Chilean Spanish_ \[BA honours thesis\]. McGill University, Department of Linguistics. [Read here](papers/cox2025b pseudo-gems.pdf)
