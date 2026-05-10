@@ -7,6 +7,8 @@
 
 ## Lisez mes recherches
 
+Almeida, A. C., Cox-Casals, R. et Wagner, M. (2026, 7 mai). _Adjectival agreement is interpreted: Evidence from summative agreement in Mexican Spanish and Brazilian Portuguese_ \[Présentation par affiche\]. WCCFL 44, Universidad autónoma nacional de México, Ville de Mexique, Mexique. [Lisez ici](../papers/WCCFL44_CumAgr.pdf)
+
 Cox-Casals, R. (2025, 4 juin). _Consonant features of Chilean Spanish: A case of
 lenition and underspecification_ \[Affiche\]. 72e congrès annuel de l'Association canadienne de linguistique, McGill University, Montréal, QC. [Lisez ici](../papers/HT poster.pdf)
 
