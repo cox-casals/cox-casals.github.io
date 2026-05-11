@@ -7,6 +7,8 @@
 
 ## Lisez mes recherches
 
+Cox-Casals, R. et Trudeau-Fisette, P. (à venir). _Traces au bord gauche de la lénition au bord droit_ \[Soumis\]. [Lisez ici](../papers/Cox-Casals2026_FinLen.pdf)
+
 Almeida, A. C., Cox-Casals, R. et Wagner, M. (2026, 7 mai). _Adjectival agreement is interpreted: Evidence from summative agreement in Mexican Spanish and Brazilian Portuguese_ \[Présentation par affiche\]. WCCFL 44, Universidad autónoma nacional de México, Ville de Mexique, Mexique. [Lisez ici](../papers/WCCFL44_CumAgr.pdf)
 
 Cox-Casals, R. (2025, 4 juin). _Consonant features of Chilean Spanish: A case of
