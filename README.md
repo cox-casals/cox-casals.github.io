@@ -20,5 +20,5 @@ I also study the connection between language structure and music and poetry. How
 
 Overall, my expertise lie in the musical aspects of language: rhythm, pitch, length, and the interaction between sounds. With this experience in linguistics and music, I approach my research with the scrutiny of a scientist and the tact of an artist.
 
-### Languages I've worked with
-Spanish (Chile), English, Japanese, French (Quebec), Sereer-Sine (Senegal), Witsuwit'en (British Columbia), Upper Tanana (Alaska), Navajo (Arizona), Mauritian Creole (Mauritius).
+### Languages I've written about
+Spanish, English, Japanese, Sereer-Sine (Senegal), Witsuwit'en (British Columbia), Upper Tanana (Alaska), Navajo (Arizona), Mauritian Creole (Mauritius), French (Quebec).
