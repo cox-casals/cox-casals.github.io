@@ -7,7 +7,7 @@
 
 ## À propos de moi
 ### Intérêts
-Phonologie, théorie autosegmentale, phonologie de laboratoire, prosodie, interface syntaxe-phonologie, psycholinguistique du bilinguisme et perception de la poésie et de la musique.
+Phonologie, psycholinguistique, théorie autosegmentale-métrique, phonologie de laboratoire, psychologie du bilinguisme, perception de la parole et l’interface prosodie-musique.
 
 ### Mes recherches
 Je m'appelle Ray, étudiant de maîtrise en linguistique théorique à l'Université de Montréal, prévu en 2027.
@@ -20,5 +20,5 @@ J'étudie également les liens entre la structure linguistique et la musique et 
 
 Dans l'ensemble, mon expertise porte sur les aspects musicaux du langage : le rythme, la hauteur, la durée et l'interaction entre les sons. Fort de cette expérience en linguistique et en musique, j'aborde mes recherches avec la rigueur d'un scientifique et la sensibilité d'un artiste.
 
-### Languages I've worked with
-Espagnol (Chili), anglais, japonais, français (Québec), sérère-sine (Sénégal), witsuwit'en (Colombie-Britannique), haut tanana (Alaska), navajo (Arizona), créole mauricien (Île Maurice).
+### Les langues dont j'ai écrit :
+Espagnol, anglais, japonais, sérère-sine (Sénégal), witsuwit'en (Colombie-Britannique), haut tanana (Alaska), navajo (Arizona), créole mauricien (Île Maurice), français (Québec).
