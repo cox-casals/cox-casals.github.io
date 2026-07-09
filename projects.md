@@ -17,4 +17,4 @@ My master’s project is testing these ideas experimentally, by recording people
 
 ### Documenting Mauritian Creole
 
-When I’m not running lab experiments, I run traditional linguistic elicitation with native speakers of Mauritian Creole, an understudied language. We meet regularly to record the sounds of the spoken language and to ask judgments on different sentences. Bit by bit, we can document the language and figure out its grammar with the help of natives, in order to have a basis for teaching materials and written work that supports the preservation of the language.
+When I’m not running lab experiments, I run traditional linguistic elicitation with native speakers of Mauritian Creole, an understudied language. We meet regularly to record the sounds of the spoken language and to ask judgments on different sentences. Bit by bit, we can document the language and figure out its grammar with the help of Mauritians, in order to have a basis for teaching materials and written work that supports the preservation of their language.
