@@ -7,7 +7,7 @@
 
 ## Contact
 ### Raimundo Cox-Casals (Ray)
-Étudiant diplômé  
+Étudiant des cycles supérieurs  
 Faculté des arts et des sciences | Département de linguistique et traduction  
 Université de Montréal   
 **Courriel:** raimundo.cox.casals@umontreal.ca  
