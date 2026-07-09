@@ -7,7 +7,7 @@
 
 ## Read my work
 
-Cox-Casals, R. (submitted). _Traces au bord gauche de la lénition au bord droit_. [Read here](papers/Cox-Casals2026_FinLen.pdf)
+Cox-Casals, R. & Paméla Trudeau-Fisette (submitted). _Traces au bord gauche de la lénition au bord droit_. [Read here](papers/Cox-Casals2026_FinLen.pdf)
 
 Almeida, A. C., Cox-Casals, R., & Wagner, M. (2026, May 7). _Adjectival agreement is interpreted: Evidence from summative agreement in Mexican Spanish and Brazilian Portuguese_ \[Poster presentation\]. WCCFL 44, Universidad autónoma nacional de México, Mexico City, Mexico. [Read here](papers/WCCFL44_CumAgr.pdf)
 
