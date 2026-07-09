@@ -11,5 +11,4 @@
 Faculté des arts et des sciences | Département de linguistique et traduction  
 Université de Montréal   
 **Courriel:** raimundo.cox.casals@umontreal.ca  
-**Phone:** +1 514 4483532  
 _Envoyez-moi un message si vous avez des questions ou si vous voulez simplement discuter._
