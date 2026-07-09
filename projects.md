@@ -9,7 +9,7 @@
 
 ### Matching Syllables and Notes (MA Thesis)
 
-You might have noticed that putting the _em_-*pha*-_sis_ on the wrong _sy_-*lla*-_ble_ sounds odd and makes speech difficult to understand. If a syllable is more prominent (longer, higher, or louder) than others in the same word, we perceive it as stressed. This means that if we pronounce another syllable as stronger, it sounds like we’ve misplaced the stress, for example: it’s _a_-*ma*-z_ing_, not _a-ma_-*zing*.
+You might have noticed that putting the _em-PHA-sis_ on the wrong _sy-LLA-ble_ sounds odd and makes speech difficult to understand. If a syllable is more prominent (longer, higher, or louder) than others in the same word, we perceive it as stressed. This means that if we pronounce another syllable as stronger, it sounds like we’ve misplaced the stress, for example: it’s _a-MA-zing_, not _a-ma-ZING_.
 
 I’m interested in looking at this effect but in sung language! When we sing or listen to songs, we seem to unconsciously prefer when stressed syllables land on "strong" notes. Therefore, my current questions are: what features in the music make a particular note sound stressed? Are some languages more strict about aligning syllables with notes than others? Do musicians and non-musicians perceive rhythm in singing differently?
 
