@@ -7,17 +7,17 @@
 
 ## Lisez mes recherches
 
-Cox-Casals, R. et Trudeau-Fisette, P. (soumis). _Traces au bord gauche de la lénition au bord droit._ [Lisez ici](../papers/Cox-Casals2026_FinLen.pdf)
+Cox-Casals, R. et Trudeau-Fisette, P. (soumis). [Traces au bord gauche de la lénition au bord droit](../papers/Cox-Casals2026_FinLen.pdf) \[Article de revue\]
 
-Almeida, A. C., Cox-Casals, R. et Wagner, M. (2026, 7 mai). _Adjectival agreement is interpreted: Evidence from summative agreement in Mexican Spanish and Brazilian Portuguese_ \[Présentation par affiche\]. WCCFL 44, Universidad autónoma nacional de México, Ville de Mexique, Mexique. [Lisez ici](../papers/WCCFL44_CumAgr.pdf)
+Almeida, A. C., Cox-Casals, R. et Wagner, M. (2026, 7 mai). [Adjectival agreement is interpreted: Evidence from summative agreement in Mexican Spanish and Brazilian Portuguese](../papers/WCCFL44_CumAgr.pdf) \[Présentation par affiche\].
 
-Cox-Casals, R. (2025, 4 juin). _Consonant features of Chilean Spanish: A case of
-lenition and underspecification_ \[Affiche\]. 72e congrès annuel de l'Association canadienne de linguistique, McGill University, Montréal, QC. [Lisez ici](../papers/HT poster.pdf)
+Cox-Casals, R. (2025, 4 juin). [Consonant features of Chilean Spanish: A case of
+lenition and underspecification](../papers/HT poster.pdf) \[Présentation par affiche\].
 
-Cox-Casals, R. (2025). _Pseudo-geminates: An autosegmental approach to consonant "lengthening" in Chilean Spanish_ \[Mémoire de spécialisation\]. McGill University, Department of Linguistics. [Lisez ici](../papers/cox2025b pseudo-gems.pdf)
+Cox-Casals, R. (2025). [Pseudo-geminates: An autosegmental approach to consonant "lengthening" in Chilean Spanish](../papers/cox2025b pseudo-gems.pdf) \[Mémoire de spécialisation\]
 
-Cox-Casals, R. (2025). Teasing apart tone and stress in Athabaskan. _JournalLing, 4_(5), 49-76. [Lisez ici](../papers/cox2025a athabaskan.pdf)
+Cox-Casals, R. (2025). [Teasing apart tone and stress in Athabaskan](../papers/cox2025a athabaskan.pdf) \[Article de revue\]
 
-Cox-Casals, R. & Melançon, W. (2024). _Stress and intonation in Sereer-Sine: A preliminary analysis_ \[Manuscrit\]. McGill University, Department of Linguistics. [Lisez ici](../papers/cox&melancon2024 sereer.pdf)
+Cox-Casals, R. & Melançon, W. (2024). [Stress and intonation in Sereer-Sine: A preliminary analysis](../papers/cox&melancon2024 sereer.pdf) \[Manuscrit\]
 
-Cox-Casals, R. (2024, 9 mars). _Language constrains poetry: Evidence from Japanese haiku_ \[Présentation orale\]. TULCON 17, University of Toronto, Toronto, ON. [Lisez ici](../papers/cox2023 poetry.pdf)
+Cox-Casals, R. (2024, 9 mars). [Language constrains poetry: Evidence from Japanese haiku](../papers/cox2023 poetry.pdf) \[Acte de conférence\]
